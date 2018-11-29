@@ -1,6 +1,6 @@
-k=raw_input()
-S=list(k)
-if("1"in S)or("2"in S)or("3"in S)or("4"in S)or("5"in S)or("6"in S)or("7"in S)or("8"in S)or("9"in S):
+r=raw_input()
+t=list(r)
+if("1"in t)or("2"in t)or("3"in t)or("4"in t)or("5"in t)or("6"in t)or("7"in t)or("8"in t)or("9"in t):
     print "Yes"
 else:
     print "No"
